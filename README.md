@@ -42,16 +42,16 @@ A web-based Sudoku solver built with Flask, designed to solve Sudoku puzzles fro
 
 
 
-## 🔍 SEO Tags
-
-`sudoku solver`, `AI sudoku solver`, `Flask sudoku solver`, `machine learning sudoku solver`, `Sudoku image recognition`, `computer vision sudoku solver`, `Flask AI projects`, `Python sudoku solver`
-
----
-
 ## 🔗 Connect with Me
 - **Dev**: [Connect With Me On Dev](https://dev.to/amitchandra/)
 - **LinkedIn**: [Connect With Me On LinkedIn](https://www.linkedin.com/in/connect-amit-chandra/)
 - **Twitter**: [Connect With Me On X](https://x.com/CodeByAmit)
+
+
+
+---
+
+`sudoku solver`, `AI sudoku solver`, `Flask sudoku solver`, `machine learning sudoku solver`, `Sudoku image recognition`, `computer vision sudoku solver`, `Flask AI projects`, `Python sudoku solver`
 
 ---
 
