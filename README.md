@@ -41,12 +41,13 @@ A web-based Sudoku solver built with Flask, designed to solve Sudoku puzzles fro
 4. **User Interaction**: Users can upload images or manually enter Sudoku puzzles for instant solutions.
 
 
+---
+
 
 ## 🔗 Connect with Me
 - **Dev**: [Connect With Me On Dev](https://dev.to/amitchandra/)
 - **LinkedIn**: [Connect With Me On LinkedIn](https://www.linkedin.com/in/connect-amit-chandra/)
 - **Twitter**: [Connect With Me On X](https://x.com/CodeByAmit)
-
 
 
 ---
